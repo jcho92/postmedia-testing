@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>		<rss version="2.0"
-		xmlns:content="https://purl.org/rss/1.0/modules/content/"
-		xmlns:wfw="https://wellformedweb.org/CommentAPI/"
-		xmlns:dc="https://purl.org/dc/elements/1.1/"
-		xmlns:atom="https://www.w3.org/2005/Atom"
-		xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
-		xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
-		xmlns:media="https://search.yahoo.com/mrss/"
-		xmlns:postmedia="https://postmediacalgaryherald2.wordpress.com"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+		xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		xmlns:media="http://search.yahoo.com/mrss/"
+		xmlns:postmedia="http://postmediacalgaryherald2.wordpress.com"
 xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 		>
 			<channel>
 				<title>Calgary HeraldCalgary Herald &#8211; Calgary Latest News, Breaking Headlines &#38; Sports</title>
